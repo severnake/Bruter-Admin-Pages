@@ -8,3 +8,5 @@ Using python 3
   <li>Type: pip install -r requirements.txt </li>
   <li>Type: py run.py</li>
 </ul>
+# site example
+http://web.com/ (using '/')
